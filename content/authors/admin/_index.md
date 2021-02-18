@@ -1,6 +1,6 @@
 ---
 # Display name
-title: LIbin Wang
+title: Libin Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Artificial Intelligence
+    institution: The Hong Kong Polytechnic University
+    year: 2022
+  - course: BEc in Material Scinece
+    institution: Huazhong University of Science and Technology
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,7 +61,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "314852849@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
